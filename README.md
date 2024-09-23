@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VanHoose-tech
-- 👀 I’m interested in coding and modification of consoles and systems
+- 👀 I’m interested in coding, software modification of consoles, and music production
 - 🌱 I’m currently learning Python, music production
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 
+- 📫 How to reach me: @NotCrypticPaper on Twitter/X
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
